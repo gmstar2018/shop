@@ -1,0 +1,45 @@
+h1 ,p{
+	text-align: center;
+}
+table{
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+th{
+	background: #dddddd;
+}
+th, td{
+	padding: 5px;
+}
+div{
+	width: 70%;
+	margin: 0 auto;
+}
+a.btn{
+	display: inline-block;
+	width: 1.5em;
+	height: 1.5em;
+	background: #DDDDDD;
+	text-decoration: none;
+	color: black;
+	border-radius: 5px;
+}
+input{
+	width: 150px;
+	padding: 5px 0;
+}
+ul{
+	width: 400px;
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+li span{
+	float: right;
+}
+.address, .address input{
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
